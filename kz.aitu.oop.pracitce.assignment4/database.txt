@@ -1,0 +1,6 @@
+CREATE TABLE employee(
+	id int PRIMARY KEY,
+	name VARCHAR(50),
+	salary int,
+	position VARCHAR(50)
+)
